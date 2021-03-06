@@ -1,4 +1,4 @@
-Build : Q1_Large_array.c
-	gcc Q1_Large_array.c
-run : Build
+Build : Q2_MIN_MAX.c
+	gcc Q2_MIN_MAX.c
+run : 
 	./a.out
