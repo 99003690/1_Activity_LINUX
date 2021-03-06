@@ -1,4 +1,5 @@
-Build : Q2_MIN_MAX.c
-	gcc Q2_MIN_MAX.c
-run : 
+Build : Q3_Current_time.c
+	gcc Q3_Current_time.c
+run : Build
 	./a.out
+
